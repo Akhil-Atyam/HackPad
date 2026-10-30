@@ -9,7 +9,7 @@ I have designed a 16 key macro pad with each key having an individually addressa
 
 ## Design of PCB
 Originally, I aimed to design a pcb with an encoder as well, but as complexity grew in wiring for charlieplexing, I pivoted.
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)]([https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAkhil-Atyam%2FHackPad))
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)]((https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAkhil-Atyam%2FHackPad))
 
 
 <img width="532" height="401" alt="Screenshot 2026-10-02 234846" src="https://github.com/user-attachments/assets/1355c379-e0d0-4821-a3fa-5ddb65b2e553" />
