@@ -7,6 +7,11 @@ I have designed a 16 key macro pad with each key having an individually addressa
 * 16 Individually Adressable LEDS
 * 1 0.91 Inch OLED Display
 
+## Onshape link
+Feel free to tour my cad!!!
+ONSHAPE IS SUPER SLOW IF IT IS YOUR FIRST TIME LOADING IT. IT IS NOT AN ERROR, RATHER A THING ABOUT ONSHAPE ITSELF.
+https://cad.onshape.com/documents/e1661e19116ea9c6de92e682/w/dd3611e2101036e24bcbff88/e/80689fdb4ae365a9a36d9549
+
 ## Design of PCB
 Originally, I aimed to design a pcb with an encoder as well, but as complexity grew in wiring for charlieplexing, I pivoted.
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)]((https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAkhil-Atyam%2FHackPad))
